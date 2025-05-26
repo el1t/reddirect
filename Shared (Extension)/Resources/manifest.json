@@ -1,33 +1,38 @@
 {
-    "manifest_version": 3,
-    "default_locale": "en",
+	"manifest_version": 3,
+	"default_locale": "en",
 
-    "name": "__MSG_extension_name__",
-    "description": "__MSG_extension_description__",
-    "version": "1.0",
+	"name": "__MSG_extension_name__",
+	"description": "__MSG_extension_description__",
+	"version": "1.0",
 
-    "icons": {
-        "48": "images/icon-48.png",
-        "96": "images/icon-96.png",
-        "128": "images/icon-128.png",
-        "256": "images/icon-256.png",
-        "512": "images/icon-512.png"
-    },
+	"icons": {
+		"48": "images/icon-48.png",
+		"96": "images/icon-96.png",
+		"128": "images/icon-128.png",
+		"256": "images/icon-256.png",
+		"512": "images/icon-512.png"
+	},
 
-    "background": {
-        "scripts": [ "background.js" ],
-        "type": "module"
-    },
+	"host_permissions": [
+		"*://reddit.com/*",
+		"*://www.reddit.com/*",
+		"*://np.reddit.com/*",
+		"*://amp.reddit.com/*",
+		"*://i.reddit.com/*",
+		"*://i.redd.it/*",
+		"*://preview.redd.it/*"
+	],
 
-    "content_scripts": [{
-        "js": [ "content.js" ],
-        "matches": [ "*://example.com/*" ]
-    }],
+	"declarative_net_request" : {
+		"rule_resources" : [{
+			"id": "ruleset_1",
+			"enabled": true,
+			"path": "rules.json"
+		}]
+	},
 
-    "action": {
-        "default_popup": "popup.html",
-        "default_icon": "images/toolbar-icon.svg"
-    },
-
-    "permissions": [ ]
+    "permissions": [
+		"declarativeNetRequestWithHostAccess"
+	]
 }

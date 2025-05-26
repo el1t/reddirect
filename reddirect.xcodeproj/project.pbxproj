@@ -110,13 +110,10 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Resources/_locales,
-				Resources/background.js,
-				Resources/content.js,
 				Resources/images,
 				Resources/manifest.json,
-				Resources/popup.css,
-				Resources/popup.html,
-				Resources/popup.js,
+				"Resources/old-reddit-redirect_LICENSE.txt",
+				Resources/rules.json,
 				SafariWebExtensionHandler.swift,
 			);
 			target = 0A6A61262DE277D600BEA85B /* reddirect Extension (iOS) */;
@@ -125,13 +122,10 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Resources/_locales,
-				Resources/background.js,
-				Resources/content.js,
 				Resources/images,
 				Resources/manifest.json,
-				Resources/popup.css,
-				Resources/popup.html,
-				Resources/popup.js,
+				"Resources/old-reddit-redirect_LICENSE.txt",
+				Resources/rules.json,
 				SafariWebExtensionHandler.swift,
 			);
 			target = 0A6A61302DE277D600BEA85B /* reddirect Extension (macOS) */;

@@ -1,10 +1,10 @@
 {
     "extension_name": {
-        "message": "reddirect",
+        "message": "Reddirect",
         "description": "The display name for the extension."
     },
     "extension_description": {
-        "message": "This is reddirect. You should tell us what your extension does here.",
+        "message": "Redirects www.reddit.com to old.reddit.com",
         "description": "Description of what the extension does."
     }
 }

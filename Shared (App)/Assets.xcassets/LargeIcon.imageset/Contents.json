@@ -1,14 +1,17 @@
 {
   "images" : [
     {
+      "filename" : "reddirect.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "reddirect@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "reddirect@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

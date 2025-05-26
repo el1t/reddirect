@@ -61,7 +61,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		0A6A61562DE277D600BEA85B /* Exceptions for "Shared (App)" folder in "reddirect (iOS)" target */ = {
+		0A6A61562DE277D600BEA85B /* Exceptions for "Shared (App)" folder in "Reddirect (iOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: Resources/Main.html",
@@ -71,23 +71,23 @@
 				Resources/Style.css,
 				ViewController.swift,
 			);
-			target = 0A6A61082DE277D600BEA85B /* reddirect (iOS) */;
+			target = 0A6A61082DE277D600BEA85B /* Reddirect (iOS) */;
 		};
-		0A6A615A2DE277D600BEA85B /* Exceptions for "iOS (Extension)" folder in "reddirect Extension (iOS)" target */ = {
+		0A6A615A2DE277D600BEA85B /* Exceptions for "iOS (Extension)" folder in "Reddirect Extension (iOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 0A6A61262DE277D600BEA85B /* reddirect Extension (iOS) */;
+			target = 0A6A61262DE277D600BEA85B /* Reddirect Extension (iOS) */;
 		};
-		0A6A615F2DE277D600BEA85B /* Exceptions for "iOS (App)" folder in "reddirect (iOS)" target */ = {
+		0A6A615F2DE277D600BEA85B /* Exceptions for "iOS (App)" folder in "Reddirect (iOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 0A6A61082DE277D600BEA85B /* reddirect (iOS) */;
+			target = 0A6A61082DE277D600BEA85B /* Reddirect (iOS) */;
 		};
-		0A6A61602DE277D600BEA85B /* Exceptions for "Shared (App)" folder in "reddirect (macOS)" target */ = {
+		0A6A61602DE277D600BEA85B /* Exceptions for "Shared (App)" folder in "Reddirect (macOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: Resources/Main.html",
@@ -97,16 +97,16 @@
 				Resources/Style.css,
 				ViewController.swift,
 			);
-			target = 0A6A611A2DE277D600BEA85B /* reddirect (macOS) */;
+			target = 0A6A611A2DE277D600BEA85B /* Reddirect (macOS) */;
 		};
-		0A6A61642DE277D600BEA85B /* Exceptions for "macOS (Extension)" folder in "reddirect Extension (macOS)" target */ = {
+		0A6A61642DE277D600BEA85B /* Exceptions for "macOS (Extension)" folder in "Reddirect Extension (macOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 0A6A61302DE277D600BEA85B /* reddirect Extension (macOS) */;
+			target = 0A6A61302DE277D600BEA85B /* Reddirect Extension (macOS) */;
 		};
-		0A6A61692DE277D600BEA85B /* Exceptions for "Shared (Extension)" folder in "reddirect Extension (iOS)" target */ = {
+		0A6A61692DE277D600BEA85B /* Exceptions for "Shared (Extension)" folder in "Reddirect Extension (iOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Resources/_locales,
@@ -116,9 +116,9 @@
 				Resources/rules.json,
 				SafariWebExtensionHandler.swift,
 			);
-			target = 0A6A61262DE277D600BEA85B /* reddirect Extension (iOS) */;
+			target = 0A6A61262DE277D600BEA85B /* Reddirect Extension (iOS) */;
 		};
-		0A6A616A2DE277D600BEA85B /* Exceptions for "Shared (Extension)" folder in "reddirect Extension (macOS)" target */ = {
+		0A6A616A2DE277D600BEA85B /* Exceptions for "Shared (Extension)" folder in "Reddirect Extension (macOS)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Resources/_locales,
@@ -128,7 +128,7 @@
 				Resources/rules.json,
 				SafariWebExtensionHandler.swift,
 			);
-			target = 0A6A61302DE277D600BEA85B /* reddirect Extension (macOS) */;
+			target = 0A6A61302DE277D600BEA85B /* Reddirect Extension (macOS) */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
@@ -136,8 +136,8 @@
 		0A6A60F12DE277D500BEA85B /* Shared (App) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				0A6A61562DE277D600BEA85B /* Exceptions for "Shared (App)" folder in "reddirect (iOS)" target */,
-				0A6A61602DE277D600BEA85B /* Exceptions for "Shared (App)" folder in "reddirect (macOS)" target */,
+				0A6A61562DE277D600BEA85B /* Exceptions for "Shared (App)" folder in "Reddirect (iOS)" target */,
+				0A6A61602DE277D600BEA85B /* Exceptions for "Shared (App)" folder in "Reddirect (macOS)" target */,
 			);
 			path = "Shared (App)";
 			sourceTree = "<group>";
@@ -145,8 +145,8 @@
 		0A6A60FA2DE277D600BEA85B /* Shared (Extension) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				0A6A61692DE277D600BEA85B /* Exceptions for "Shared (Extension)" folder in "reddirect Extension (iOS)" target */,
-				0A6A616A2DE277D600BEA85B /* Exceptions for "Shared (Extension)" folder in "reddirect Extension (macOS)" target */,
+				0A6A61692DE277D600BEA85B /* Exceptions for "Shared (Extension)" folder in "Reddirect Extension (iOS)" target */,
+				0A6A616A2DE277D600BEA85B /* Exceptions for "Shared (Extension)" folder in "Reddirect Extension (macOS)" target */,
 			);
 			explicitFolders = (
 				Resources/_locales,
@@ -158,7 +158,7 @@
 		0A6A610B2DE277D600BEA85B /* iOS (App) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				0A6A615F2DE277D600BEA85B /* Exceptions for "iOS (App)" folder in "reddirect (iOS)" target */,
+				0A6A615F2DE277D600BEA85B /* Exceptions for "iOS (App)" folder in "Reddirect (iOS)" target */,
 			);
 			path = "iOS (App)";
 			sourceTree = "<group>";
@@ -171,7 +171,7 @@
 		0A6A612B2DE277D600BEA85B /* iOS (Extension) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				0A6A615A2DE277D600BEA85B /* Exceptions for "iOS (Extension)" folder in "reddirect Extension (iOS)" target */,
+				0A6A615A2DE277D600BEA85B /* Exceptions for "iOS (Extension)" folder in "Reddirect Extension (iOS)" target */,
 			);
 			path = "iOS (Extension)";
 			sourceTree = "<group>";
@@ -179,7 +179,7 @@
 		0A6A61352DE277D600BEA85B /* macOS (Extension) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				0A6A61642DE277D600BEA85B /* Exceptions for "macOS (Extension)" folder in "reddirect Extension (macOS)" target */,
+				0A6A61642DE277D600BEA85B /* Exceptions for "macOS (Extension)" folder in "Reddirect Extension (macOS)" target */,
 			);
 			path = "macOS (Extension)";
 			sourceTree = "<group>";
@@ -245,9 +245,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0A6A61082DE277D600BEA85B /* reddirect (iOS) */ = {
+		0A6A61082DE277D600BEA85B /* Reddirect (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0A6A615C2DE277D600BEA85B /* Build configuration list for PBXNativeTarget "reddirect (iOS)" */;
+			buildConfigurationList = 0A6A615C2DE277D600BEA85B /* Build configuration list for PBXNativeTarget "Reddirect (iOS)" */;
 			buildPhases = (
 				0A6A61052DE277D600BEA85B /* Sources */,
 				0A6A61062DE277D600BEA85B /* Frameworks */,
@@ -262,16 +262,16 @@
 			fileSystemSynchronizedGroups = (
 				0A6A610B2DE277D600BEA85B /* iOS (App) */,
 			);
-			name = "reddirect (iOS)";
+			name = "Reddirect (iOS)";
 			packageProductDependencies = (
 			);
 			productName = "reddirect (iOS)";
 			productReference = 0A6A61092DE277D600BEA85B /* reddirect.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0A6A611A2DE277D600BEA85B /* reddirect (macOS) */ = {
+		0A6A611A2DE277D600BEA85B /* Reddirect (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0A6A61662DE277D600BEA85B /* Build configuration list for PBXNativeTarget "reddirect (macOS)" */;
+			buildConfigurationList = 0A6A61662DE277D600BEA85B /* Build configuration list for PBXNativeTarget "Reddirect (macOS)" */;
 			buildPhases = (
 				0A6A61172DE277D600BEA85B /* Sources */,
 				0A6A61182DE277D600BEA85B /* Frameworks */,
@@ -286,16 +286,16 @@
 			fileSystemSynchronizedGroups = (
 				0A6A611C2DE277D600BEA85B /* macOS (App) */,
 			);
-			name = "reddirect (macOS)";
+			name = "Reddirect (macOS)";
 			packageProductDependencies = (
 			);
 			productName = "reddirect (macOS)";
 			productReference = 0A6A611B2DE277D600BEA85B /* reddirect.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0A6A61262DE277D600BEA85B /* reddirect Extension (iOS) */ = {
+		0A6A61262DE277D600BEA85B /* Reddirect Extension (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0A6A61572DE277D600BEA85B /* Build configuration list for PBXNativeTarget "reddirect Extension (iOS)" */;
+			buildConfigurationList = 0A6A61572DE277D600BEA85B /* Build configuration list for PBXNativeTarget "Reddirect Extension (iOS)" */;
 			buildPhases = (
 				0A6A61232DE277D600BEA85B /* Sources */,
 				0A6A61242DE277D600BEA85B /* Frameworks */,
@@ -308,16 +308,16 @@
 			fileSystemSynchronizedGroups = (
 				0A6A612B2DE277D600BEA85B /* iOS (Extension) */,
 			);
-			name = "reddirect Extension (iOS)";
+			name = "Reddirect Extension (iOS)";
 			packageProductDependencies = (
 			);
 			productName = "reddirect Extension (iOS)";
 			productReference = 0A6A61272DE277D600BEA85B /* reddirect Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
-		0A6A61302DE277D600BEA85B /* reddirect Extension (macOS) */ = {
+		0A6A61302DE277D600BEA85B /* Reddirect Extension (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0A6A61612DE277D600BEA85B /* Build configuration list for PBXNativeTarget "reddirect Extension (macOS)" */;
+			buildConfigurationList = 0A6A61612DE277D600BEA85B /* Build configuration list for PBXNativeTarget "Reddirect Extension (macOS)" */;
 			buildPhases = (
 				0A6A612D2DE277D600BEA85B /* Sources */,
 				0A6A612E2DE277D600BEA85B /* Frameworks */,
@@ -330,7 +330,7 @@
 			fileSystemSynchronizedGroups = (
 				0A6A61352DE277D600BEA85B /* macOS (Extension) */,
 			);
-			name = "reddirect Extension (macOS)";
+			name = "Reddirect Extension (macOS)";
 			packageProductDependencies = (
 			);
 			productName = "reddirect Extension (macOS)";
@@ -375,10 +375,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0A6A61082DE277D600BEA85B /* reddirect (iOS) */,
-				0A6A611A2DE277D600BEA85B /* reddirect (macOS) */,
-				0A6A61262DE277D600BEA85B /* reddirect Extension (iOS) */,
-				0A6A61302DE277D600BEA85B /* reddirect Extension (macOS) */,
+				0A6A61082DE277D600BEA85B /* Reddirect (iOS) */,
+				0A6A611A2DE277D600BEA85B /* Reddirect (macOS) */,
+				0A6A61262DE277D600BEA85B /* Reddirect Extension (iOS) */,
+				0A6A61302DE277D600BEA85B /* Reddirect Extension (macOS) */,
 			);
 		};
 /* End PBXProject section */
@@ -448,12 +448,12 @@
 /* Begin PBXTargetDependency section */
 		0A6A612A2DE277D600BEA85B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0A6A61262DE277D600BEA85B /* reddirect Extension (iOS) */;
+			target = 0A6A61262DE277D600BEA85B /* Reddirect Extension (iOS) */;
 			targetProxy = 0A6A61292DE277D600BEA85B /* PBXContainerItemProxy */;
 		};
 		0A6A61342DE277D600BEA85B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0A6A61302DE277D600BEA85B /* reddirect Extension (macOS) */;
+			target = 0A6A61302DE277D600BEA85B /* Reddirect Extension (macOS) */;
 			targetProxy = 0A6A61332DE277D600BEA85B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -467,7 +467,7 @@
 				DEVELOPMENT_TEAM = 3NU33NW2M3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "reddirect Extension";
+				INFOPLIST_KEY_CFBundleDisplayName = "Reddirect Extension";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -498,7 +498,7 @@
 				DEVELOPMENT_TEAM = 3NU33NW2M3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "reddirect Extension";
+				INFOPLIST_KEY_CFBundleDisplayName = "Reddirect Extension";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -607,7 +607,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "reddirect Extension";
+				INFOPLIST_KEY_CFBundleDisplayName = "Reddirect Extension";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -639,7 +639,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "reddirect Extension";
+				INFOPLIST_KEY_CFBundleDisplayName = "Reddirect Extension";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -672,7 +672,7 @@
 				DEVELOPMENT_TEAM = 3NU33NW2M3;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = reddirect;
+				INFOPLIST_KEY_CFBundleDisplayName = Reddirect;
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -707,7 +707,7 @@
 				DEVELOPMENT_TEAM = 3NU33NW2M3;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = reddirect;
+				INFOPLIST_KEY_CFBundleDisplayName = Reddirect;
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -859,7 +859,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0A6A61572DE277D600BEA85B /* Build configuration list for PBXNativeTarget "reddirect Extension (iOS)" */ = {
+		0A6A61572DE277D600BEA85B /* Build configuration list for PBXNativeTarget "Reddirect Extension (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0A6A61582DE277D600BEA85B /* Debug */,
@@ -868,7 +868,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0A6A615C2DE277D600BEA85B /* Build configuration list for PBXNativeTarget "reddirect (iOS)" */ = {
+		0A6A615C2DE277D600BEA85B /* Build configuration list for PBXNativeTarget "Reddirect (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0A6A615D2DE277D600BEA85B /* Debug */,
@@ -877,7 +877,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0A6A61612DE277D600BEA85B /* Build configuration list for PBXNativeTarget "reddirect Extension (macOS)" */ = {
+		0A6A61612DE277D600BEA85B /* Build configuration list for PBXNativeTarget "Reddirect Extension (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0A6A61622DE277D600BEA85B /* Debug */,
@@ -886,7 +886,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0A6A61662DE277D600BEA85B /* Build configuration list for PBXNativeTarget "reddirect (macOS)" */ = {
+		0A6A61662DE277D600BEA85B /* Build configuration list for PBXNativeTarget "Reddirect (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0A6A61672DE277D600BEA85B /* Debug */,

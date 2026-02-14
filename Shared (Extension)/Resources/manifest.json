@@ -17,12 +17,19 @@
 	"host_permissions": [
 		"*://reddit.com/*",
 		"*://www.reddit.com/*",
+		"*://old.reddit.com/*",
 		"*://np.reddit.com/*",
 		"*://amp.reddit.com/*",
 		"*://i.reddit.com/*",
 		"*://i.redd.it/*",
 		"*://preview.redd.it/*"
 	],
+
+	"content_scripts": [{
+		"matches": ["*://*.reddit.com/media*", "*://*.reddit.com/r/*/comments/media/*", "*://*.reddit.com/*/comments/media/*"],
+		"js": ["media-redirect.js"],
+		"run_at": "document_end"
+	}],
 
 	"declarative_net_request" : {
 		"rule_resources" : [{
